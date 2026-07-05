@@ -66,7 +66,7 @@ House Price Prediction
 ## Connect with Me
 
 - LinkedIn: *https://www.linkedin.com/in/dhairya-sharma-0509b1272/*
-- Email: *moonraker6999@gmail.com*
+- Email: *dhairyastudent007@gmail.com*
 
 ---
 
