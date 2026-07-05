@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi there, I'm Dhairya Sharma
 
-<!--
-**MoonRaker07/MoonRaker07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing B.Tech in Artificial Intelligence & Machine Learning 
+From Kurukshetra University
 
-Here are some ideas to get you started:
+Aspiring AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building Machine Learning projects and strengthening my software engineering skills.
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Machine Learning
+- Scikit-learn
+- TensorFlow (Learning)
+- Pandas
+- NumPy
+- Matplotlib
+- NLTK
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Streamlit
+- Jupyter Notebook
+
+---
+
+## Featured Projects
+
+AI Resume Analyzer
+
+- Resume Classification
+- ATS Score
+- Skill Extraction
+- Streamlit
+
+Movie Recommendation System
+
+- TF-IDF
+- Cosine Similarity
+- NLP
+
+House Price Prediction
+
+- Regression
+- Feature Engineering
+- Data Visualization
+
+---
+
+## Currently Learning
+
+- Deep Learning
+- MLOps
+- Computer Vision
+- Generative AI
+
+---
+
+## Connect with Me
+
+- LinkedIn: *(Add your LinkedIn URL)*
+- Email: *moonraker6999@gmail.com*
+
+---
+
+Thanks for visiting my profile!
